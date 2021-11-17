@@ -10,7 +10,6 @@
 #include <dt-bindings/zmk/rgb.h>
 
 
-
 / {
     keymap {
         compatible = "zmk,keymap";
